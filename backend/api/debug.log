@@ -1,0 +1,843 @@
+2025-12-02 07:58:25 - Auth request received
+2025-12-02 08:01:38 - Auth request received
+2025-12-02 08:02:58 - Auth request received
+2025-12-02 08:03:33 - Auth request received
+Raw data: {"email":"admin@hospital.com", "password":"admin123"}
+Decoded data: stdClass Object
+(
+    [email] => admin@hospital.com
+    [password] => admin123
+)
+
+Attempting login for: admin@hospital.com
+Login SUCCESS for: admin@hospital.com
+2025-12-02 08:07:31 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 08:07:36 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 08:08:26 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 08:08:27 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 08:08:27 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 08:08:27 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 08:08:28 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 08:08:28 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 08:08:28 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 08:08:38 - Auth request received
+Raw data: {"email":"admin@hospital.com", "password":"admin123"}
+Decoded data: stdClass Object
+(
+    [email] => admin@hospital.com
+    [password] => admin123
+)
+
+Attempting login for: admin@hospital.com
+Login SUCCESS for: admin@hospital.com
+2025-12-02 08:09:36 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 08:10:31 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 08:10:31 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 08:10:32 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 08:10:49 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 08:11:56 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 08:11:57 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 08:11:57 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 08:11:57 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 08:11:58 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 08:11:58 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 08:11:58 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 08:12:41 - Auth request received
+Raw data: {"email":"admin@hospital.com", "password":"admin123"}
+Decoded data: stdClass Object
+(
+    [email] => admin@hospital.com
+    [password] => admin123
+)
+
+Attempting login for: admin@hospital.com
+Login SUCCESS for: admin@hospital.com
+2025-12-02 08:13:49 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 08:13:50 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 08:13:51 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 08:13:51 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 08:13:51 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 08:13:51 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 08:13:52 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 08:13:52 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 08:13:52 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 08:13:52 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 08:13:53 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 08:13:53 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 08:15:39 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 08:15:40 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 08:15:40 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 08:15:40 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 08:15:40 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 08:17:15 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 08:17:16 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 08:17:16 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 08:17:16 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 08:17:17 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 08:17:17 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 08:17:17 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 08:17:37 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 08:18:22 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 08:18:22 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 08:18:23 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 08:18:23 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 08:18:33 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 08:19:14 - Auth request received
+Raw data: {"email":"admin@hospital.com","password":"admin123"}
+Decoded data: stdClass Object
+(
+    [email] => admin@hospital.com
+    [password] => admin123
+)
+
+Attempting login for: admin@hospital.com
+Login SUCCESS for: admin@hospital.com
+2025-12-02 14:52:51 - Auth request received
+Raw data: {"email":"admin@hospital.com","password":"admin123"}
+Decoded data: stdClass Object
+(
+    [email] => admin@hospital.com
+    [password] => admin123
+)
+
+Attempting login for: admin@hospital.com
+2025-12-02 14:53:22 - Auth request received
+Raw data: {"email":"admin@hospital.com","password":"admin123"}
+Decoded data: stdClass Object
+(
+    [email] => admin@hospital.com
+    [password] => admin123
+)
+
+Attempting login for: admin@hospital.com
+2025-12-02 14:53:22 - Auth request received
+Raw data: {"email":"admin@hospital.com","password":"admin123"}
+Decoded data: stdClass Object
+(
+    [email] => admin@hospital.com
+    [password] => admin123
+)
+
+Attempting login for: admin@hospital.com
+2025-12-02 14:53:23 - Auth request received
+Raw data: {"email":"admin@hospital.com","password":"admin123"}
+Decoded data: stdClass Object
+(
+    [email] => admin@hospital.com
+    [password] => admin123
+)
+
+Attempting login for: admin@hospital.com
+2025-12-02 14:53:23 - Auth request received
+Raw data: {"email":"admin@hospital.com","password":"admin123"}
+Decoded data: stdClass Object
+(
+    [email] => admin@hospital.com
+    [password] => admin123
+)
+
+Attempting login for: admin@hospital.com
+2025-12-02 14:54:14 - Auth request received
+Raw data: {"email":"admin@hospital.com","password":"admin123"}
+Decoded data: stdClass Object
+(
+    [email] => admin@hospital.com
+    [password] => admin123
+)
+
+Attempting login for: admin@hospital.com
+2025-12-02 21:18:44 - Auth request received
+Raw data: {"email":"admin@hospital.com","password":"admin123"}
+Decoded data: stdClass Object
+(
+    [email] => admin@hospital.com
+    [password] => admin123
+)
+
+Attempting login for: admin@hospital.com
+2025-12-02 21:20:58 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 21:21:19 - Auth request received
+Raw data: {"email":"admin@hospital.com","password":"admin123"}
+Decoded data: stdClass Object
+(
+    [email] => admin@hospital.com
+    [password] => admin123
+)
+
+Attempting login for: admin@hospital.com
+2025-12-02 21:21:20 - Auth request received
+Raw data: {"email":"admin@hospital.com","password":"admin123"}
+Decoded data: stdClass Object
+(
+    [email] => admin@hospital.com
+    [password] => admin123
+)
+
+Attempting login for: admin@hospital.com
+2025-12-02 21:21:20 - Auth request received
+Raw data: {"email":"admin@hospital.com","password":"admin123"}
+Decoded data: stdClass Object
+(
+    [email] => admin@hospital.com
+    [password] => admin123
+)
+
+Attempting login for: admin@hospital.com
+2025-12-02 21:21:21 - Auth request received
+Raw data: {"email":"admin@hospital.com","password":"admin123"}
+Decoded data: stdClass Object
+(
+    [email] => admin@hospital.com
+    [password] => admin123
+)
+
+Attempting login for: admin@hospital.com
+2025-12-02 21:21:21 - Auth request received
+Raw data: {"email":"admin@hospital.com","password":"admin123"}
+Decoded data: stdClass Object
+(
+    [email] => admin@hospital.com
+    [password] => admin123
+)
+
+Attempting login for: admin@hospital.com
+2025-12-02 21:21:21 - Auth request received
+Raw data: {"email":"admin@hospital.com","password":"admin123"}
+Decoded data: stdClass Object
+(
+    [email] => admin@hospital.com
+    [password] => admin123
+)
+
+Attempting login for: admin@hospital.com
+2025-12-02 21:21:21 - Auth request received
+Raw data: {"email":"admin@hospital.com","password":"admin123"}
+Decoded data: stdClass Object
+(
+    [email] => admin@hospital.com
+    [password] => admin123
+)
+
+Attempting login for: admin@hospital.com
+2025-12-02 21:21:21 - Auth request received
+Raw data: {"email":"admin@hospital.com","password":"admin123"}
+Decoded data: stdClass Object
+(
+    [email] => admin@hospital.com
+    [password] => admin123
+)
+
+Attempting login for: admin@hospital.com
+2025-12-02 21:21:45 - Auth request received
+Raw data: {"email":"admin@hospital.com","password":"admin123"}
+Decoded data: stdClass Object
+(
+    [email] => admin@hospital.com
+    [password] => admin123
+)
+
+Attempting login for: admin@hospital.com
+2025-12-02 21:22:37 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 21:22:38 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 21:22:38 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 21:22:38 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 21:22:39 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 21:41:15 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 21:41:17 - Auth request received
+Raw data: {"email":"admin@hospital.com","password":"admin123"}
+Decoded data: stdClass Object
+(
+    [email] => admin@hospital.com
+    [password] => admin123
+)
+
+Attempting login for: admin@hospital.com
+Login FAILED for: admin@hospital.com
+2025-12-02 21:41:18 - Auth request received
+Raw data: {"email":"admin@hospital.com","password":"admin123"}
+Decoded data: stdClass Object
+(
+    [email] => admin@hospital.com
+    [password] => admin123
+)
+
+Attempting login for: admin@hospital.com
+Login FAILED for: admin@hospital.com
+2025-12-02 21:41:18 - Auth request received
+Raw data: {"email":"admin@hospital.com","password":"admin123"}
+Decoded data: stdClass Object
+(
+    [email] => admin@hospital.com
+    [password] => admin123
+)
+
+Attempting login for: admin@hospital.com
+Login FAILED for: admin@hospital.com
+2025-12-02 21:41:18 - Auth request received
+Raw data: {"email":"admin@hospital.com","password":"admin123"}
+Decoded data: stdClass Object
+(
+    [email] => admin@hospital.com
+    [password] => admin123
+)
+
+Attempting login for: admin@hospital.com
+Login FAILED for: admin@hospital.com
+2025-12-02 21:41:19 - Auth request received
+Raw data: {"email":"admin@hospital.com","password":"admin123"}
+Decoded data: stdClass Object
+(
+    [email] => admin@hospital.com
+    [password] => admin123
+)
+
+Attempting login for: admin@hospital.com
+Login FAILED for: admin@hospital.com
+2025-12-02 21:41:26 - Auth request received
+Raw data: {"email":"admin@hospital.com","password":"admin123"}
+Decoded data: stdClass Object
+(
+    [email] => admin@hospital.com
+    [password] => admin123
+)
+
+Attempting login for: admin@hospital.com
+Login FAILED for: admin@hospital.com
+2025-12-02 21:43:38 - Auth request received
+Raw data: {"email":"admin@hospital.com","password":"admin123"}
+Decoded data: stdClass Object
+(
+    [email] => admin@hospital.com
+    [password] => admin123
+)
+
+Attempting login for: admin@hospital.com
+Login SUCCESS for: admin@hospital.com
+2025-12-02 21:47:35 - Auth request received
+Raw data: 
+Decoded data: 
+Incomplete data received
+2025-12-02 21:51:08 - Auth request received
+Raw data: {"email":"ahmed@gmail.com","password":"ahmed123"}
+Decoded data: stdClass Object
+(
+    [email] => ahmed@gmail.com
+    [password] => ahmed123
+)
+
+Attempting login for: ahmed@gmail.com
+Login FAILED for: ahmed@gmail.com
+2025-12-02 21:53:11 - Auth request received
+Raw data: {"email":"admin@hospital.com","password":"admin123"}
+Decoded data: stdClass Object
+(
+    [email] => admin@hospital.com
+    [password] => admin123
+)
+
+Attempting login for: admin@hospital.com
+Login SUCCESS for: admin@hospital.com
+2025-12-02 21:53:51 - Auth request received
+Raw data: {"email":"ahmed@gmail.com","password":"ahmed123"}
+Decoded data: stdClass Object
+(
+    [email] => ahmed@gmail.com
+    [password] => ahmed123
+)
+
+Attempting login for: ahmed@gmail.com
+Login SUCCESS for: ahmed@gmail.com
+2025-12-02 21:54:17 - Auth request received
+Raw data: {"email":"admin@hospital.com","password":"admin123"}
+Decoded data: stdClass Object
+(
+    [email] => admin@hospital.com
+    [password] => admin123
+)
+
+Attempting login for: admin@hospital.com
+Login SUCCESS for: admin@hospital.com
+2025-12-02 21:55:05 - Auth request received
+Raw data: {"email":"uraib@gmail.com","password":"uraib123"}
+Decoded data: stdClass Object
+(
+    [email] => uraib@gmail.com
+    [password] => uraib123
+)
+
+Attempting login for: uraib@gmail.com
+Login SUCCESS for: uraib@gmail.com
+2025-12-03 09:06:41 - Auth request received
+Raw data: {"email":"ahmed@gmail.com","password":"ahmed123"}
+Decoded data: stdClass Object
+(
+    [email] => ahmed@gmail.com
+    [password] => ahmed123
+)
+
+Attempting login for: ahmed@gmail.com
+Login SUCCESS for: ahmed@gmail.com
+2025-12-03 10:31:51 - Auth request received
+Raw data: {"email":"uraib@gmail.com","password":"uraib123"}
+Decoded data: stdClass Object
+(
+    [email] => uraib@gmail.com
+    [password] => uraib123
+)
+
+Attempting login for: uraib@gmail.com
+Login SUCCESS for: uraib@gmail.com
+2025-12-03 11:28:12 - Auth request received
+Raw data: {"email":"uraib@gmail.com","password":"uraib123"}
+Decoded data: stdClass Object
+(
+    [email] => uraib@gmail.com
+    [password] => uraib123
+)
+
+Attempting login for: uraib@gmail.com
+Login SUCCESS for: uraib@gmail.com
+2025-12-03 18:28:02 - Auth request received
+Raw data: {"email":"uraib@gmail.com","password":"uraib123"}
+Decoded data: stdClass Object
+(
+    [email] => uraib@gmail.com
+    [password] => uraib123
+)
+
+Attempting login for: uraib@gmail.com
+Login SUCCESS for: uraib@gmail.com
+2025-12-03 18:29:04 - Auth request received
+Raw data: {"email":"ahmed@gmail.com","password":"ahmed123"}
+Decoded data: stdClass Object
+(
+    [email] => ahmed@gmail.com
+    [password] => ahmed123
+)
+
+Attempting login for: ahmed@gmail.com
+Login SUCCESS for: ahmed@gmail.com
+2025-12-03 18:41:48 - Auth request received
+Raw data: {"email":"raza@gmail.com","password":"raza123"}
+Decoded data: stdClass Object
+(
+    [email] => raza@gmail.com
+    [password] => raza123
+)
+
+Attempting login for: raza@gmail.com
+Login SUCCESS for: raza@gmail.com
+2025-12-03 18:45:49 - Auth request received
+Raw data: {"email":"ahmed@gmail.com","password":"ahmed123"}
+Decoded data: stdClass Object
+(
+    [email] => ahmed@gmail.com
+    [password] => ahmed123
+)
+
+Attempting login for: ahmed@gmail.com
+Login SUCCESS for: ahmed@gmail.com
+2025-12-03 19:03:43 - Auth request received
+Raw data: {"email":"raza@gmail.com","password":"raza123"}
+Decoded data: stdClass Object
+(
+    [email] => raza@gmail.com
+    [password] => raza123
+)
+
+Attempting login for: raza@gmail.com
+Login SUCCESS for: raza@gmail.com
+2025-12-03 19:04:26 - Auth request received
+Raw data: {"email":"uraib@gmail.com","password":"uraib123"}
+Decoded data: stdClass Object
+(
+    [email] => uraib@gmail.com
+    [password] => uraib123
+)
+
+Attempting login for: uraib@gmail.com
+Login SUCCESS for: uraib@gmail.com
+2025-12-03 19:07:32 - Auth request received
+Raw data: {"email":"ahmed@gmail.com","password":"ahmed123"}
+Decoded data: stdClass Object
+(
+    [email] => ahmed@gmail.com
+    [password] => ahmed123
+)
+
+Attempting login for: ahmed@gmail.com
+Login SUCCESS for: ahmed@gmail.com
+2025-12-03 19:09:02 - Auth request received
+Raw data: {"email":"uraib@gmail.com","password":"uraib123"}
+Decoded data: stdClass Object
+(
+    [email] => uraib@gmail.com
+    [password] => uraib123
+)
+
+Attempting login for: uraib@gmail.com
+Login SUCCESS for: uraib@gmail.com
+2025-12-03 19:53:01 - Auth request received
+Raw data: {"email":"raza@gmail.com","password":"raza123"}
+Decoded data: stdClass Object
+(
+    [email] => raza@gmail.com
+    [password] => raza123
+)
+
+Attempting login for: raza@gmail.com
+Login SUCCESS for: raza@gmail.com
+2025-12-03 19:53:27 - Auth request received
+Raw data: {"email":"uraib@gmail.com","password":"uraib123"}
+Decoded data: stdClass Object
+(
+    [email] => uraib@gmail.com
+    [password] => uraib123
+)
+
+Attempting login for: uraib@gmail.com
+Login SUCCESS for: uraib@gmail.com
+2025-12-03 19:53:47 - Auth request received
+Raw data: {"email":"ahmed@gmail.com","password":"ahmed123"}
+Decoded data: stdClass Object
+(
+    [email] => ahmed@gmail.com
+    [password] => ahmed123
+)
+
+Attempting login for: ahmed@gmail.com
+Login SUCCESS for: ahmed@gmail.com
+2025-12-03 20:25:22 - Auth request received
+Raw data: {"email":"uraib@gmail.com","password":"uraib123"}
+Decoded data: stdClass Object
+(
+    [email] => uraib@gmail.com
+    [password] => uraib123
+)
+
+Attempting login for: uraib@gmail.com
+Login SUCCESS for: uraib@gmail.com
+2025-12-03 20:28:21 - Auth request received
+Raw data: {"email":"raza@gmail.com","password":"raza123"}
+Decoded data: stdClass Object
+(
+    [email] => raza@gmail.com
+    [password] => raza123
+)
+
+Attempting login for: raza@gmail.com
+Login SUCCESS for: raza@gmail.com
+2025-12-03 20:29:08 - Auth request received
+Raw data: {"email":"ahmed@gmail.com","password":"ahmed123"}
+Decoded data: stdClass Object
+(
+    [email] => ahmed@gmail.com
+    [password] => ahmed123
+)
+
+Attempting login for: ahmed@gmail.com
+Login SUCCESS for: ahmed@gmail.com
+2025-12-03 20:31:43 - Auth request received
+Raw data: {"email":"admin@hospital.com","password":"admin123"}
+Decoded data: stdClass Object
+(
+    [email] => admin@hospital.com
+    [password] => admin123
+)
+
+Attempting login for: admin@hospital.com
+Login SUCCESS for: admin@hospital.com
+2025-12-03 20:46:25 - Auth request received
+Raw data: {"email":"admin@hospital.com","password":"admin123"}
+Decoded data: stdClass Object
+(
+    [email] => admin@hospital.com
+    [password] => admin123
+)
+
+Attempting login for: admin@hospital.com
+Login SUCCESS for: admin@hospital.com
+2025-12-03 21:23:05 - Auth request received
+Raw data: {"email":"ahmed@gmail.com","password":"ahmed123"}
+Decoded data: stdClass Object
+(
+    [email] => ahmed@gmail.com
+    [password] => ahmed123
+)
+
+Attempting login for: ahmed@gmail.com
+Login SUCCESS for: ahmed@gmail.com
+2025-12-03 21:32:30 - Auth request received
+Raw data: {"email":"admin@hospital.com","password":"admin123"}
+Decoded data: stdClass Object
+(
+    [email] => admin@hospital.com
+    [password] => admin123
+)
+
+Attempting login for: admin@hospital.com
+Login SUCCESS for: admin@hospital.com
+2025-12-03 21:40:08 - Auth request received
+Raw data: {"email":"uraibmustafa@gmail.com","password":"um@098"}
+Decoded data: stdClass Object
+(
+    [email] => uraibmustafa@gmail.com
+    [password] => um@098
+)
+
+Attempting login for: uraibmustafa@gmail.com
+Login SUCCESS for: uraibmustafa@gmail.com
+2025-12-06 08:50:39 - Auth request received
+Raw data: {"email":"uraibmustafa@gmail.com","password":"um@098"}
+Decoded data: stdClass Object
+(
+    [email] => uraibmustafa@gmail.com
+    [password] => um@098
+)
+
+Attempting login for: uraibmustafa@gmail.com
+Login SUCCESS for: uraibmustafa@gmail.com
+2025-12-06 08:59:15 - Auth request received
+Raw data: {"email":"uraibmustafa@gmail.com","password":"um@098"}
+Decoded data: stdClass Object
+(
+    [email] => uraibmustafa@gmail.com
+    [password] => um@098
+)
+
+Attempting login for: uraibmustafa@gmail.com
+Login SUCCESS for: uraibmustafa@gmail.com
+2025-12-06 11:09:43 - Auth request received
+Raw data: {"email":"ahmed@gmail.com","password":"ahmed123"}
+Decoded data: stdClass Object
+(
+    [email] => ahmed@gmail.com
+    [password] => ahmed123
+)
+
+Attempting login for: ahmed@gmail.com
+Login SUCCESS for: ahmed@gmail.com
+2025-12-06 11:37:03 - Auth request received
+Raw data: {"email":"raza@gmail.com","password":"raza123"}
+Decoded data: stdClass Object
+(
+    [email] => raza@gmail.com
+    [password] => raza123
+)
+
+Attempting login for: raza@gmail.com
+Login SUCCESS for: raza@gmail.com
+2025-12-06 11:38:16 - Auth request received
+Raw data: {"email":"uraib@gmail.com","password":"uraib123"}
+Decoded data: stdClass Object
+(
+    [email] => uraib@gmail.com
+    [password] => uraib123
+)
+
+Attempting login for: uraib@gmail.com
+Login SUCCESS for: uraib@gmail.com
+2025-12-06 11:57:12 - Auth request received
+Raw data: {"email":"raza@gmail.com","password":"raza123"}
+Decoded data: stdClass Object
+(
+    [email] => raza@gmail.com
+    [password] => raza123
+)
+
+Attempting login for: raza@gmail.com
+Login SUCCESS for: raza@gmail.com
+2025-12-06 11:58:11 - Auth request received
+Raw data: {"email":"ahmed@gmail.com","password":"ahmed123"}
+Decoded data: stdClass Object
+(
+    [email] => ahmed@gmail.com
+    [password] => ahmed123
+)
+
+Attempting login for: ahmed@gmail.com
+Login SUCCESS for: ahmed@gmail.com
+2025-12-06 12:07:30 - Auth request received
+Raw data: {"email":"uraib@gmail.com","password":"uraib123"}
+Decoded data: stdClass Object
+(
+    [email] => uraib@gmail.com
+    [password] => uraib123
+)
+
+Attempting login for: uraib@gmail.com
+Login SUCCESS for: uraib@gmail.com
