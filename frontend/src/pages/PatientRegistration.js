@@ -512,7 +512,7 @@ const checkAndResetToken = useCallback(() => {
       if (toDate) params.to_date = toDate;
 
       const response = await axios.get(
-        'https://yasin-psychiatric-hospital-pos.site/backend/api/patients.php',
+        'https://localhost/backend/api/patients.php',
         { params }
       );
 
@@ -538,7 +538,7 @@ const checkAndResetToken = useCallback(() => {
       if (toDate) params.to_date = toDate;
 
       const response = await axios.get(
-        'https://yasin-psychiatric-hospital-pos.site/backend/api/patients.php',
+        'https://localhost/backend/api/patients.php',
         { params }
       );
 
@@ -594,7 +594,7 @@ const checkAndResetToken = useCallback(() => {
       if (dateFilters.toDate) params.to_date = dateFilters.toDate;
 
       const response = await axios.get(
-        'https://yasin-psychiatric-hospital-pos.site/backend/api/patients.php',
+        'https://localhost/backend/api/patients.php',
         { params }
       );
 
@@ -724,7 +724,7 @@ const checkAndResetToken = useCallback(() => {
 
     try {
       const response = await axios.post(
-        'https://yasin-psychiatric-hospital-pos.site/backend/api/patients.php',
+        'https://localhost/backend/api/patients.php',
         payload,
         {
           headers: {
@@ -800,7 +800,7 @@ const checkAndResetToken = useCallback(() => {
 
     try {
       const patientResponse = await axios.get(
-        `https://yasin-psychiatric-hospital-pos.site/backend/api/patients.php`,
+        `https://localhost/backend/api/patients.php`,
         {
           params: { slip_number: prescriptionSearch.trim() },
           timeout: 10000,
@@ -817,7 +817,7 @@ const checkAndResetToken = useCallback(() => {
 
         try {
           const prescriptionResponse = await axios.get(
-            `https://yasin-psychiatric-hospital-pos.site/backend/api/prescriptions.php`,
+            `https://localhost/backend/api/prescriptions.php`,
             {
               params: {
                 slip_number: prescriptionSearch.trim(),
@@ -866,7 +866,7 @@ const checkAndResetToken = useCallback(() => {
   const fetchPatientBySlipNumber = async (slipNumber) => {
     try {
       const response = await axios.get(
-        `https://yasin-psychiatric-hospital-pos.site/backend/api/patients.php`,
+        `https://localhost/backend/api/patients.php`,
         {
           params: { slip_number: slipNumber },
           timeout: 10000,
@@ -985,7 +985,7 @@ const checkAndResetToken = useCallback(() => {
     setPrescriptionsTableLoading(true);
     try {
       const response = await axios.get(
-        'https://yasin-psychiatric-hospital-pos.site/backend/api/prescriptions.php',
+        'https://localhost/backend/api/prescriptions.php',
         { params: { all_prescriptions: true } }
       );
 
@@ -996,7 +996,7 @@ const checkAndResetToken = useCallback(() => {
           prescriptions.map(async (prescription) => {
             try {
               const medResponse = await axios.get(
-                `https://yasin-psychiatric-hospital-pos.site/backend/api/prescriptions.php`,
+                `https://localhost/backend/api/prescriptions.php`,
                 { params: { slip_number: prescription.slip_number, with_medicines: true } }
               );
 
@@ -1225,7 +1225,7 @@ const checkAndResetToken = useCallback(() => {
       };
 
       const response = await axios.put(
-        'https://yasin-psychiatric-hospital-pos.site/backend/api/patients.php',
+        'https://localhost/backend/api/patients.php',
         payload,
         {
           headers: {
@@ -1274,7 +1274,7 @@ const checkAndResetToken = useCallback(() => {
       };
 
       const response = await axios.delete(
-        'https://yasin-psychiatric-hospital-pos.site/backend/api/patients.php',
+        'https://localhost/backend/api/patients.php',
         {
           data: payload,
           headers: {
