@@ -79,7 +79,7 @@ const UserManagement = () => {
 
   const fetchUsers = async () => {
     try {
-      const response = await axios.get('https://yasin-psychiatric-hospital-pos.site/backend/api/users.php');
+      const response = await axios.get('https://localhost/backend/api/users.php');
       if (response.data.success) {
         setUsers(response.data.data);
       }
@@ -117,7 +117,7 @@ const UserManagement = () => {
     setActionLoading(true);
     
     try {
-      const response = await axios.post('https://yasin-psychiatric-hospital-pos.site/backend/api/users.php', formData);
+      const response = await axios.post('https://localhost/backend/api/users.php', formData);
       
       if (response.data.success) {
         fetchUsers();
@@ -139,7 +139,7 @@ const UserManagement = () => {
     setActionLoading(true);
     
     try {
-      const response = await axios.delete('https://yasin-psychiatric-hospital-pos.site/backend/api/users.php', {
+      const response = await axios.delete('https://localhost/backend/api/users.php', {
         data: { id: userId }
       });
       
