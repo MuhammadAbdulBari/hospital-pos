@@ -77,7 +77,7 @@ const Login = () => {
 
     try {
       const response = await axios.post(
-        'https://yasin-psychiatric-hospital-pos.site/backend/api/auth.php',
+        'https://localhost/backend/api/auth.php',
         { email: trimmedEmail, password: trimmedPassword },
         { headers: { 'Content-Type': 'application/json' }, timeout: 10000 }
       );
