@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'https://yasin-psychiatric-hospital-pos.site/backend/api';
+const API_BASE_URL = 'https://localhost/backend/api';
 
 const api = axios.create({
   baseURL: API_BASE_URL,
