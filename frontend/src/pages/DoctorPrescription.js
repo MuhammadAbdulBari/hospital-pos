@@ -262,7 +262,7 @@ const DoctorPrescription = () => {
 
     try {
       const response = await axios.get(
-        `https://yasin-psychiatric-hospital-pos.site/backend/api/patients.php`,
+        `https://localhost/backend/api/patients.php`,
         {
           params: { slip_number: slipNumber.trim() },
           cancelToken: cancelToken.current.token,
@@ -280,7 +280,7 @@ const DoctorPrescription = () => {
 
         try {
           const prescriptionResponse = await axios.get(
-            `https://yasin-psychiatric-hospital-pos.site/backend/api/prescriptions.php`,
+            `https://localhost/backend/api/prescriptions.php`,
             {
               params: { 
                 slip_number: slipNumber.trim(), 
@@ -373,7 +373,7 @@ const DoctorPrescription = () => {
   const fetchAllMedicines = async () => {
     try {
       const response = await axios.get(
-        `https://yasin-psychiatric-hospital-pos.site/backend/api/medicines.php`,
+        `https://localhost/backend/api/medicines.php`,
         {
           params: { all: true },
           timeout: 15000,
@@ -646,7 +646,7 @@ const DoctorPrescription = () => {
 
     try {
       const response = await axios.post(
-        'https://yasin-psychiatric-hospital-pos.site/backend/api/prescriptions.php',
+        'https://localhost/backend/api/prescriptions.php',
         payload,
         { 
           headers: { 'Content-Type': 'application/json' }, 
@@ -698,7 +698,7 @@ const DoctorPrescription = () => {
 
     try {
       const response = await axios.post(
-        'https://yasin-psychiatric-hospital-pos.site/backend/api/prescriptions.php',
+        'https://localhost/backend/api/prescriptions.php',
         payload,
         { 
           headers: { 'Content-Type': 'application/json' }, 
