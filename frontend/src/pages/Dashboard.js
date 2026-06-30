@@ -100,7 +100,7 @@ const DoctorPrescription = () => {
 
     try {
       const response = await axios.get(
-        `https://yasin-psychiatric-hospital-pos.site/backend/api/patients.php`,
+        `https://localhost/backend/api/patients.php`,
         {
           params: { slip_number: slipNumber },
           cancelToken: cancelToken.current.token
@@ -111,7 +111,7 @@ const DoctorPrescription = () => {
         setPatientData(response.data.data);
 
         const prescriptionResponse = await axios.get(
-          `https://yasin-psychiatric-hospital-pos.site/backend/api/prescriptions.php`,
+          `https://localhost/backend/api/prescriptions.php`,
           {
             params: { slip_number: slipNumber },
             cancelToken: cancelToken.current.token
@@ -169,7 +169,7 @@ const DoctorPrescription = () => {
 
     try {
       const response = await axios.post(
-        'https://yasin-psychiatric-hospital-pos.site/backend/api/prescriptions.php',
+        'https://localhost/backend/api/prescriptions.php',
         payload,
         { headers: { 'Content-Type': 'application/json' }, timeout: 10000 }
       );
