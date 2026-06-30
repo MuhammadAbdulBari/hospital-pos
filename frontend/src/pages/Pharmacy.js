@@ -175,7 +175,7 @@ const Pharmacy = () => {
   const fetchPrescriptions = async () => {
     try {
       const response = await axios.get(
-        'https://yasin-psychiatric-hospital-pos.site/backend/api/prescriptions.php?pharmacy=true&with_medicines=true'
+        'https://localhost/backend/api/prescriptions.php?pharmacy=true&with_medicines=true'
       );
       
       if (response.data.success) {
@@ -191,7 +191,7 @@ const Pharmacy = () => {
   const fetchAvailableMedicines = async () => {
     try {
       const response = await axios.get(
-        'https://yasin-psychiatric-hospital-pos.site/backend/api/medicines.php'
+        'https://localhost/backend/api/medicines.php'
       );
       
       if (response.data.success) {
@@ -216,7 +216,7 @@ const Pharmacy = () => {
     
     try {
       const response = await axios.put(
-        'https://yasin-psychiatric-hospital-pos.site/backend/api/prescriptions.php',
+        'https://localhost/backend/api/prescriptions.php',
         {
           update_type: 'status',
           id,
@@ -264,7 +264,7 @@ const Pharmacy = () => {
     
     try {
       const response = await axios.put(
-        'https://yasin-psychiatric-hospital-pos.site/backend/api/prescriptions.php',
+        'https://localhost/backend/api/prescriptions.php',
         {
           update_type: 'details',
           id: selectedPrescription.id,
@@ -302,7 +302,7 @@ const Pharmacy = () => {
     
     try {
       const response = await axios.delete(
-        'https://yasin-psychiatric-hospital-pos.site/backend/api/prescriptions.php',
+        'https://localhost/backend/api/prescriptions.php',
         {
           data: { id: prescriptionId },
           headers: { 'Content-Type': 'application/json' }
@@ -340,7 +340,7 @@ const Pharmacy = () => {
     
     try {
       const response = await axios.post(
-        'https://yasin-psychiatric-hospital-pos.site/backend/api/prescriptions.php',
+        'https://localhost/backend/api/prescriptions.php',
         {
           action: 'add_medicine',
           prescription_id: selectedPrescription.id,
@@ -386,7 +386,7 @@ const Pharmacy = () => {
     
     try {
       const response = await axios.post(
-        'https://yasin-psychiatric-hospital-pos.site/backend/api/prescriptions.php',
+        'https://localhost/backend/api/prescriptions.php',
         {
           action: 'remove_medicine',
           prescription_medicine_id: prescriptionMedicineId
@@ -397,7 +397,7 @@ const Pharmacy = () => {
       if (response.data.success) {
         // Refresh prescription data
         const prescriptionResponse = await axios.get(
-          `https://yasin-psychiatric-hospital-pos.site/backend/api/prescriptions.php?id=${selectedPrescription.id}&with_medicines=true`
+          `https://localhost/backend/api/prescriptions.php?id=${selectedPrescription.id}&with_medicines=true`
         );
         
         if (prescriptionResponse.data.success) {
@@ -429,7 +429,7 @@ const Pharmacy = () => {
     
     try {
       const response = await axios.post(
-        'https://yasin-psychiatric-hospital-pos.site/backend/api/medicines.php',
+        'https://localhost/backend/api/medicines.php',
         newMedicineForm,
         { headers: { 'Content-Type': 'application/json' } }
       );
@@ -473,7 +473,7 @@ const Pharmacy = () => {
     
     try {
       const response = await axios.put(
-        'https://yasin-psychiatric-hospital-pos.site/backend/api/medicines.php',
+        'https://localhost/backend/api/medicines.php',
         { id: editMedicineId, ...newMedicineForm },
         { headers: { 'Content-Type': 'application/json' } }
       );
@@ -513,7 +513,7 @@ const Pharmacy = () => {
     
     try {
       const response = await axios.delete(
-        'https://yasin-psychiatric-hospital-pos.site/backend/api/medicines.php',
+        'https://localhost/backend/api/medicines.php',
         {
           data: { id: medicineId },
           headers: { 'Content-Type': 'application/json' }
